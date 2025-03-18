@@ -6,7 +6,7 @@
     <title>Basic HTML Program</title>
 </head>
 <body>
-    <h1>Welcome to Webpage</h1>
+    <h1>Welcome to my Webpage</h1>
     <p>This is a basic HTML program that displays a heading and a paragraph of text.</p>
 </body>
 </html>
