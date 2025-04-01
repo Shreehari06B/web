@@ -10,3 +10,6 @@
     <p>This is a basic HTML program that displays a heading and a paragraph of text.</p>
 </body>
 </html>
+<button>
+    OPEN
+</button>
